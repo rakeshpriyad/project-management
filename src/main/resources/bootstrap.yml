@@ -1,0 +1,4 @@
+spring:
+  cloud:
+  application:
+    name: project-mgmt
